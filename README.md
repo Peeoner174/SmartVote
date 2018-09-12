@@ -1,3 +1,7 @@
+Совместный проект по блокчейн курсу
+
+![Certificate](https://pp.userapi.com/c846220/v846220941/e7670/YFfo7lYugTM.jpg)
+
 # SmartVote
 [![Build Status](https://travis-ci.org/ShagaleevAlexey/SmartVote.svg?branch=develop)](https://travis-ci.org/ShagaleevAlexey/SmartVote) [![Coverage Status](https://coveralls.io/repos/github/ShagaleevAlexey/SmartVote/badge.svg?branch=develop)](https://coveralls.io/github/ShagaleevAlexey/SmartVote?branch=develop)
 
@@ -40,4 +44,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
 
